@@ -1,0 +1,11 @@
+class Adhar{
+	public static void main(string[] args){
+	int no=12354-5678-990;
+	system.out.println(no);
+	char name= 'rita';
+	system.out.println(name);
+	int age=20;
+	system.out.println(age);
+	}
+}
+	
